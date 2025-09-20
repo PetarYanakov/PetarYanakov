@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello I'am Petar Yanakov 👋
 
-<!--
-**PetarYanakov/PetarYanakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```html
+# Certificates
 
-Here are some ideas to get you started:
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/4fcd36bc-dc90-4e96-b264-cb07f837ba48" width="200" height="auto" />
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+```
